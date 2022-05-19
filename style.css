@@ -1,0 +1,23 @@
+header{
+width: 1040px;
+
+ }
+.container{
+width: 75%;
+float: left;
+border: 1px solid red;
+box-sizing: border-box;
+
+}
+img{
+
+height: 100px;
+    width: 150px;
+    clear: both;
+}
+.other{
+    border: 1px solid  blue;
+width: 25%;
+float: left;
+box-sizing: border-box;
+}
